@@ -1,35 +1,46 @@
-# 💻 Thanyapat Julsawat
+# 💻 Thanyapat Julamid
 
-## Software Developer | Full Stack Developer
+## Software Developer | Full Stack Developer  
 
-🎓 **Bachelor's Degree in [Your Major]**  
+🎓 **Bachelor's Degree in Computer Engineering**  
 🏫 **King Mongkut’s University of Technology North Bangkok (KMUTNB)**  
-🔹 **Expertise:** React.js | Django | MSSQL | CI/CD | Data Automation  
-🔹 **Industry:** Smart Factory | Supply Chain Management | Production Scheduling  
 
----
 
-### 🚀 About Me  
-I’m a **Full Stack Developer** passionate about building scalable and efficient web applications. With experience in **React & Django**, I specialize in **managing big data**, automating business processes, and optimizing production workflows.  
+### 🚀 Experience  
+🔹 **Full Stack Developer | Siam Cement Group (SCG)**  
 
-🔹 **Key Projects:**  
-- **FutureForce SmartFactory**: A responsive web application for managing supply, scheduling production, and reducing human errors.  
-- **Variance Cost Report Automation**: Automating financial reports for accountants to analyze production costs efficiently.  
-- **Class & Subject Scheduler**: Developing an interactive UI with reminders and API management for academic scheduling.  
+#### **FutureForce Project**  
+- **Led the end-to-end development** of a **web application** using **React (Frontend) and Django (Backend)** to streamline **supply chain management and job floor scheduling**, significantly **reducing human errors** and **optimizing operational efficiency**.  
+- **Designed and implemented automation workflows**, reducing manual intervention, improving accuracy, and enhancing overall **system efficiency**.  
+- **Automated the Variance Cost Process** for **accountants**, enabling **real-time financial impact analysis** of production and improving decision-making capabilities.  
+- **Managed and processed large datasets** from multiple **business units** using **MSSQL**, implementing **scheduled jobs** for **automated data processing**.  
+
+💰 **Estimated Value Release:** ≈ 1 million Baht annually  
 
 ---
 
 ### 🛠 Tech Stack  
-- **Frontend:** React.js (Chakra UI, Framer Motion, ApexCharts)  
-- **Backend:** Django (DRF), MSSQL, PostgreSQL  
-- **DevOps:** CI/CD (GitHub Actions), IIS Deployment, Scheduled Jobs  
-- **Automation:** RPA, Data Processing, API Integrations  
+- **Frontend:**
+  - React.js
+  - Vue
+  - Angular
+  - HTML
+  - CSS
+
+- **Backend:** 
+  - Django
+  - Golang
+  - Python
+  - NodeJS
+  - MSSQL
+  - MySQL
+  - MongoDB
 
 ---
 
-### 📫 Let's Connect  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- **Email:** your.email@example.com  
+### 📫 Contact  
+📌 **LinkedIn:** [Thanyapat Julamid](https://www.linkedin.com/in/thanyapat-julamid-77678b28a/)  
+📧 **Email:** thanyapatjulamid@gmail.com  
+📞 **Phone:** +66 94-209-7468  
 
-🚀 Always eager to learn, build, and collaborate on innovative projects!  
+
